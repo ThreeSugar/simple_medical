@@ -1,4 +1,5 @@
 class SessionsController < ApplicationController
+
   def new
   end
 
@@ -15,4 +16,6 @@ class SessionsController < ApplicationController
 
   def destroy
   end
+
+
 end
